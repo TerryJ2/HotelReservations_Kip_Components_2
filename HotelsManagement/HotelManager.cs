@@ -71,11 +71,12 @@ namespace HotelsManagement
         //public int Current { get; set; }
         public String Name { get; set; }
 
-        public Room () { }
+        public Room() { }
 
-        public Room (BedType bedSize = BedType.KING, int capacity = 2)
+        public Room (BedType bedSize = BedType.KING, int DailyRate = 0, int capacity = 2)
         {
             this.BedSize = bedSize;
+            this.DailyRate = DailyRate;
             this.Capacity = capacity;
             
             switch(this.BedSize)

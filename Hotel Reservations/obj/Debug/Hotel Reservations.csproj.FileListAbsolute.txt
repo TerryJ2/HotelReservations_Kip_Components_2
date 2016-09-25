@@ -10,3 +10,15 @@ C:\Users\TerryJean\Documents\Visual Studio 2015\Projects\Hotel Reservations - St
 C:\Users\TerryJean\Documents\Visual Studio 2015\Projects\Hotel Reservations - Start\Hotel Reservations\obj\Debug\Hotel Reservations.csproj.GenerateResource.Cache
 C:\Users\TerryJean\Documents\Visual Studio 2015\Projects\Hotel Reservations - Start\Hotel Reservations\obj\Debug\Hotel Reservations.exe
 C:\Users\TerryJean\Documents\Visual Studio 2015\Projects\Hotel Reservations - Start\Hotel Reservations\obj\Debug\Hotel Reservations.pdb
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\Hotel Reservations\bin\Debug\Hotel Reservations.exe.config
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\Hotel Reservations\obj\Debug\Hotel Reservations.exe
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\Hotel Reservations\obj\Debug\Hotel Reservations.pdb
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\Hotel Reservations\bin\Debug\Hotel Reservations.exe
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\Hotel Reservations\bin\Debug\Hotel Reservations.pdb
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\Hotel Reservations\bin\Debug\HotelsManagement.dll
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\Hotel Reservations\bin\Debug\HotelsManagement.pdb
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\Hotel Reservations\obj\Debug\Hotel Reservations.csprojResolveAssemblyReference.cache
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\Hotel Reservations\obj\Debug\Hotel_Reservations.BrowserForm.resources
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\Hotel Reservations\obj\Debug\Hotel_Reservations.CreateFilesForm.resources
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\Hotel Reservations\obj\Debug\Hotel_Reservations.Properties.Resources.resources
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\Hotel Reservations\obj\Debug\Hotel Reservations.csproj.GenerateResource.Cache

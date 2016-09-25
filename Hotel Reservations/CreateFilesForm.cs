@@ -71,16 +71,16 @@ namespace Hotel_Reservations
                 hotel.Features.Distances.Beach = Math.Round(r.NextDouble() * 5, 2);
                 hotel.Features.Distances.Shopping = Math.Round(r.NextDouble() * 5, 2);
 
-                Room KB = new Room(Room.BedType.KING, 5);
+                Room KB = new Room(Room.BedType.KING, r.Next(90 + 1) + 100, 5);
                 hotel.RoomList.Add(KB);
 
-                Room QB = new Room(Room.BedType.QUEEN, 4);
+                Room QB = new Room(Room.BedType.QUEEN, r.Next(90 + 1) + 100, 4);
                 hotel.RoomList.Add(QB);
 
-                Room DB = new Room(Room.BedType.DOUBLE, 2);
+                Room DB = new Room(Room.BedType.DOUBLE, r.Next(90 + 1) + 100, 2);
                 hotel.RoomList.Add(DB);
 
-                Room BS = new Room(Room.BedType.SUITE, 6);
+                Room BS = new Room(Room.BedType.SUITE, r.Next(90 + 1) + 100, 6);
                 hotel.RoomList.Add(BS);
 
                 this.hotelManager.hotels.Add(hotel);

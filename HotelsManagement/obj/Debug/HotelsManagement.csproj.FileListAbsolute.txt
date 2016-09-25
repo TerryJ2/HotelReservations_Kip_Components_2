@@ -3,3 +3,8 @@ C:\Users\TerryJean\Documents\Visual Studio 2015\Projects\Hotel Reservations - St
 C:\Users\TerryJean\Documents\Visual Studio 2015\Projects\Hotel Reservations - Start\HotelsManagement\obj\Debug\HotelsManagement.dll
 C:\Users\TerryJean\Documents\Visual Studio 2015\Projects\Hotel Reservations - Start\HotelsManagement\obj\Debug\HotelsManagement.pdb
 C:\Users\TerryJean\Documents\Visual Studio 2015\Projects\Hotel Reservations - Start\HotelsManagement\obj\Debug\HotelsManagement.csprojResolveAssemblyReference.cache
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\HotelsManagement\bin\Debug\HotelsManagement.dll
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\HotelsManagement\bin\Debug\HotelsManagement.pdb
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\HotelsManagement\obj\Debug\HotelsManagement.csprojResolveAssemblyReference.cache
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\HotelsManagement\obj\Debug\HotelsManagement.dll
+C:\Users\Kikin\Desktop\HotelReservations_Kip_Components\HotelsManagement\obj\Debug\HotelsManagement.pdb
